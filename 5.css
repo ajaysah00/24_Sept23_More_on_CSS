@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+    color: red;
+    
+}
+img{
+    width: 500px ;
+    margin: 20spx 20px 20px 20px;
+    border-radius: 25px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+}
